@@ -1,0 +1,13 @@
+recording,x,y,fp,reference
+0,64,40,record_x64_y40.wav,reference.wav
+1,82,399,record_x82_y399.wav,reference.wav
+2,150,185,record_x150_y185.wav,reference.wav
+3,232,275,record_x232_y275.wav,reference.wav
+4,350,370,record_x350_y370.wav,reference.wav
+5,360,120,record_x360_y120.wav,reference.wav
+6,390,230,record_x390_y230.wav,reference.wav
+7,50,50,sr_x50_y50.wav,sr_reference.wav
+8,50,230,sr_x50_y230.wav,sr_reference.wav
+9,230,230,sr_x230_y230.wav,sr_reference.wav
+10,330,249,sr_x330_y249.wav,sr_reference.wav
+11,341,169,sr_x341_y169.wav,sr_reference.wav
